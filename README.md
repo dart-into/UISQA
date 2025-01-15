@@ -1,7 +1,7 @@
 # UISQA
 a cross-domain image quality assessment method
-Code for DFST
-![./Net](wholenet.jpg)
+Code for UISQA
+![./Net](UISQA.png)
 
 ## Dataset
 | Dataset   | Links                                                       |
