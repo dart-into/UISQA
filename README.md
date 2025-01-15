@@ -1,7 +1,7 @@
-# USCQA
+# USCIQA
 a cross-domain image quality assessment method
-Code for USCQA
-![./Net](USCQA.png)
+Code for USCIQA
+![./Net](USCIQA.png)
 
 ## Dataset
 | Dataset   | Links                                                       |
